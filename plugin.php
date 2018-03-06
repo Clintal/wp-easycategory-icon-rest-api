@@ -5,7 +5,7 @@
  * Author: Clintal
  * Author URI: https://www.clintal.com
  * Version: 0.1
- * License: LGPL
+ * License: GPL
  **/
 
 add_action( 'rest_api_init', 'slug_register_easycategory' );
@@ -20,6 +20,7 @@ function slug_register_easycategory() {
     );
 }
 
+// returns fontawesome icon name
 function slug_get_easycategory_icon_name( $object, $field_name, $request ) {
     $cat = get_category_by_slug($object['slug']);
     preg_match('/fa-([a-z]*)[.\S]/', $cat->term_font_icon, $matches);
