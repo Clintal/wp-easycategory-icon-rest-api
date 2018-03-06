@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Add Easy Category Icon to WP REST API
+ * Plugin Name: Easy Category Icons - WP REST API Addon
  * Description: This plugin adds the easy category icons parameter to API categories.
  * Author: Clintal
  * Author URI: https://www.clintal.com

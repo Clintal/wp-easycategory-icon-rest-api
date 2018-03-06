@@ -1,4 +1,4 @@
-# Add Easy Category Icon to WP REST API
+# Easy Category Icons - WP REST API Addon
 
 This plugin adds the easy category icons parameter to API categories.
 
