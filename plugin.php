@@ -4,7 +4,7 @@
  * Description: This plugin adds the easy category icons parameter to API categories.
  * Author: Clintal
  * Author URI: https://www.clintal.com
- * Version: 0.1
+ * Version: 1.0.1
  * License: GPL
  **/
 
